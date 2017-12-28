@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>LAKOM Jalanan</title>
+<title>LAKOM</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -60,8 +60,8 @@ publik dan bersifat dua arah, yang digunakan sebagai alat bantu untuk melakukan 
 program Smart City maupun pengaduan masyarakat terkait pelaksanaan program Smart City di Kota Bandung. 
 LAKOM dikembangkan oleh Kelompok 6 Open Recruitment EAD.Aplikasi LAKOM  berupaya untuk menjembatani partisipasi 
 publik dalam pembangunan daerah antara masyarakat umum dengan Pemerintah Kota Bandung. Masyarakat umum dapat memberikan 
-komplain tentang kondisi jalanan yang akan ditinjau dan didisposisikan oleh tim verifikasi 
-LAKOM Jalanan kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
+komplain tentang kondisi jalanan ataupun taman yang ada di sekitar Bandung, yang akan ditinjau dan didisposisikan oleh tim verifikasi 
+LAKOM kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
 </p>
 <h3><center><b>Alur Kerja LAKOM Jalanan</b></center></h3>
 <img src="alur.jpg" alt="Database" align="middle"> <br>
