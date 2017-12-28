@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>LAKOM Jalanan</title>
+<title>LAKOM KOBA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -104,9 +104,9 @@ Saran 						: <br>
 
 <footer class="w3-container w3-theme" style="padding:32px">
 <p>Contact Us !</p>
-<a href="https://www.instagram.com/" class="fa fa-instagram"></a> lakom_jalanan <br>
-<a href="http://facebook.com" class="fa fa-facebook"></a>  LAKOM Jalanan<br>
-<p>E-mail : lakom.jalanan@gmail.com</p> 
+<a href="https://www.instagram.com/" class="fa fa-instagram"></a> lakom_koba <br>
+<a href="http://facebook.com" class="fa fa-facebook"></a>  LAKOM KOBA<br>
+<p>E-mail : lakom.koba@gmail.com</p> 
 </footer>
       
 </div>
