@@ -49,16 +49,19 @@ body {font-family: "Roboto", sans-serif}
 
 
 <form>
-<h2><center><b>Selamat Datang di Layanan Komplain Jalanan</b></center></h2>
+<h2><center><b>Selamat Datang di Layanan Komplain </b></center></h2>
 <img src="jalan1.jpg" alt="Database" align="middle"> <br>
 <p>
-Layanan Komplain Jalanan (LAKOM Jalanan) adalah aplikasi berbasis website yang melibatkan partisipasi 
+Smart city adalah konsep kota cerdas yang dirancang guna membantu berbagai hal kegiatan masyarakat, 
+terutama dalam upaya mengelola sumber daya yang ada dengan efisien, serta memberikan kemudahan mengakses 
+informasi kepada masyarakat, hingga untuk mengantisipasi kejadian yang tak terduga sebelumnya.
+Layanan Komplain (LAKOM) adalah aplikasi berbasis website yang melibatkan partisipasi 
 publik dan bersifat dua arah, yang digunakan sebagai alat bantu untuk melakukan monitoring dan verifikasi capaian 
 program Smart City maupun pengaduan masyarakat terkait pelaksanaan program Smart City di Kota Bandung. 
-LAKOM Jalanan dikembangkan oleh Kelompok 6 Open Recruitment EAD.
-Aplikasi LAKOM Jalanan berupaya untuk menjembatani partisipasi publik dalam pembangunan daerah antara masyarakat umum 
-dengan Pemerintah Kota Bandung. Masyarakat umum dapat memberikan komplain tentang kondisi jalanan yang akan ditinjau dan 
-didisposisikan oleh tim verifikasi LAKOM Jalanan kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
+LAKOM dikembangkan oleh Kelompok 6 Open Recruitment EAD.Aplikasi LAKOM  berupaya untuk menjembatani partisipasi 
+publik dalam pembangunan daerah antara masyarakat umum dengan Pemerintah Kota Bandung. Masyarakat umum dapat memberikan 
+komplain tentang kondisi jalanan yang akan ditinjau dan didisposisikan oleh tim verifikasi 
+LAKOM Jalanan kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
 </p>
 <h3><center><b>Alur Kerja LAKOM Jalanan</b></center></h3>
 <img src="alur.jpg" alt="Database" align="middle"> <br>
