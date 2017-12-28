@@ -6,11 +6,12 @@ $nik = $_POST ['nik'];
 $umur = $_POST ['umur'];
 $gender = $_POST ['gender'];
 $kecamatan = $_POST ['kecamatan'];
+$jenis = $_POST ['jenis'];
 $keluhan = $_POST ['keluhan'];
 $saran = $_POST ['saran'];
 
 
-$update = mysql_query("UPDATE tb_database SET nama = '$nama', nik='$nik', umur = '$umur', gender = '$gender', kecamatan = '$kecamatan', keluhan = '$keluhan', saran = '$saran' WHERE id = '$nim'");
+$update = mysql_query("UPDATE tb_database SET nama = '$nama', nik='$nik', umur = '$umur', gender = '$gender', kecamatan = '$kecamatan',jenis = '$jenis', keluhan = '$keluhan', saran = '$saran' WHERE id = '$nim'");
 
 
 if(!$update)
