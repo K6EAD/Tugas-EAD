@@ -11,8 +11,9 @@ $kecamatan = $_POST ['kecamatan'];
 $jenis = $_POST ['jenis'];
 $keluhan = $_POST ['keluhan'];
 $saran = $_POST ['saran'];
+$pict = $_POST ['pict'];
 
-$input = mysql_query("INSERT INTO tb_database VALUES('','$nama','$nik','$umur','$gender','$kecamatan','$jenis','$keluhan','$saran')");
+$input = mysql_query("INSERT INTO tb_database VALUES('','$nama','$nik','$umur','$gender','$kecamatan','$jenis','$keluhan','$saran','$pict')");
 
 if(!$input){
 echo "Tidak Tersambung ke Tabel";
