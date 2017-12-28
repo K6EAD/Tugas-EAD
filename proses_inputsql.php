@@ -8,10 +8,11 @@ $nik = $_POST ['nik'];
 $umur = $_POST ['umur'];
 $gender = $_POST ['gender'];
 $kecamatan = $_POST ['kecamatan'];
+$jenis = $_POST ['jenis'];
 $keluhan = $_POST ['keluhan'];
 $saran = $_POST ['saran'];
 
-$input = mysql_query("INSERT INTO tb_database VALUES('','$nama','$nik','$umur','$gender','$kecamatan','$keluhan','$saran')");
+$input = mysql_query("INSERT INTO tb_database VALUES('','$nama','$nik','$umur','$gender','$kecamatan','$jenis','$keluhan','$saran')");
 
 if(!$input){
 echo "Tidak Tersambung ke Tabel";
