@@ -141,6 +141,7 @@ body {font-family: "Roboto", sans-serif}
 				<th>Umur</th>
 				<th>Jenis Kelamin</th>
 				<th>Asal Kecamatan</th>
+				<th>Jenis Keluhan</th>
 				<th>Keluhan</th>
 				<th>Saran</th>
 			</tr>
@@ -158,6 +159,7 @@ body {font-family: "Roboto", sans-serif}
 	echo'<td> '.$data['umur'].'</td>';
 	echo'<td> '.$data['gender'].'</td>';
 	echo'<td> '.$data['kecamatan'].'</td>';
+	echo'<td> '.$data['jenis'].'</td>';
 	echo'<td> '.$data['keluhan'].'</td>';
 	echo'<td> '.$data['saran'].'</td>';
 	echo'</tr><br>';
