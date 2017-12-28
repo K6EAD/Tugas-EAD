@@ -86,6 +86,11 @@ Jenis Keluhan :<br>
 Saran 						: <br>
 	<input type = "text" name="saran" placeholder = "Saran anda" ><br>
 	<input type = "submit" value= "Submit"> <br>
+	
+Select image to upload : 
+	<input type = "file" name = "image"/>
+	<input type = "submit" value = "UPLOAD">	
+	
 </form>
    
 
