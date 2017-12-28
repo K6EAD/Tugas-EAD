@@ -55,7 +55,7 @@ ID KTP					: <br>
 Umur			    : <br>
 	<input type = "text" name = "umur" placeholder = "Umur"><br>
 Jenis Kelamin					: <br>
-				  <input type = "radio" name = "gender" id="gender" value="Pria">Pria<br>
+				  <input type = "radio" name = "gender" id="gender" value="Pria">Pria
 				  <input type = "radio" name = "gender" id="gender" value="Wanita">Wanita<br>
 				  
 Asal Kecamatan :<br>
@@ -69,6 +69,17 @@ Asal Kecamatan :<br>
  <option value="Cidadap">Cidadap</option>  
  <option value="Kiara Condong">Kiara Condong</option>  
  <option value="Lengkong">Lengkong</option>  
+ </select>   <br>
+Jenis Keluhan :<br>
+ <select name="jenis"> 
+<option value="">Silahkan Pilih</option>  
+ <option value="Jalanan">Jalanan</option>  
+ <option value="Rumah Sakit">Rumah Sakit</option>  
+ <option value="Pasar">Pasar</option>  
+ <option value="Bangunan">Bangunan</option>  
+ <option value="Rumah Ibadah">Rumah Ibadah</option>  
+ <option value="Transportasi">Transportasi</option>  
+ <option value="Energi">Energi</option>
  </select>   <br>
  Keluhan 					: <br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
