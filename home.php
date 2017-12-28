@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>LAKOM</title>
+<title>LAKOM KOBA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -38,7 +38,7 @@ body {font-family: "Roboto", sans-serif}
 
 <div id="myTop" class="w3-container w3-top w3-theme w3-large">
   <p><i class="fa fa-bars w3-button w3-teal w3-hide-large w3-xlarge" onclick="w3_open()"></i>
-  <span id="myIntro" class="w3-hide">LAKOM Jalanan</span></p>
+  <span id="myIntro" class="w3-hide">LAKOM KOBA</span></p>
 </div>
 
 <header class="w3-container w3-theme" style="padding:64px 32px">
@@ -49,42 +49,22 @@ body {font-family: "Roboto", sans-serif}
 
 
 <form>
-<h2><center><b>Selamat Datang di Layanan Komplain </b></center></h2>
+<h2><center><b>Selamat Datang di Layanan Komplain Kota Bandung</b></center></h2>
 <img src="jalan1.jpg" alt="Database" align="middle"> <br>
 <p>
 Smart city adalah konsep kota cerdas yang dirancang guna membantu berbagai hal kegiatan masyarakat, 
 terutama dalam upaya mengelola sumber daya yang ada dengan efisien, serta memberikan kemudahan mengakses 
 informasi kepada masyarakat, hingga untuk mengantisipasi kejadian yang tak terduga sebelumnya.
-Layanan Komplain (LAKOM) adalah aplikasi berbasis website yang melibatkan partisipasi 
+Layanan Komplain Kota Bandung (LAKOM KOBA) adalah aplikasi berbasis website yang melibatkan partisipasi 
 publik dan bersifat dua arah, yang digunakan sebagai alat bantu untuk melakukan monitoring dan verifikasi capaian 
 program Smart City maupun pengaduan masyarakat terkait pelaksanaan program Smart City di Kota Bandung. 
-LAKOM dikembangkan oleh Kelompok 6 Open Recruitment EAD.Aplikasi LAKOM  berupaya untuk menjembatani partisipasi 
+LAKOM KOBA dikembangkan oleh Kelompok 6 Open Recruitment EAD.Aplikasi LAKOM KOBA berupaya untuk menjembatani partisipasi 
 publik dalam pembangunan daerah antara masyarakat umum dengan Pemerintah Kota Bandung. Masyarakat umum dapat memberikan 
 komplain tentang kondisi jalanan ataupun taman yang ada di sekitar Bandung, yang akan ditinjau dan didisposisikan oleh tim verifikasi 
-LAKOM kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
+LAKOM KOBA kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
 </p>
-<h3><center><b>Alur Kerja LAKOM Jalanan</b></center></h3>
+<h3><center><b>Alur Kerja LAKOM KOBA</b></center></h3>
 <img src="alur.jpg" alt="Database" align="middle"> <br>
-	
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
 	
 	
 </form>
@@ -94,9 +74,9 @@ LAKOM kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
 
 <footer class="w3-container w3-theme" style="padding:32px">
 <p>Contact Us !</p>
-<a href="https://www.instagram.com/" class="fa fa-instagram"></a> lakom_jalanan <br>
-<a href="http://facebook.com" class="fa fa-facebook"></a>  LAKOM Jalanan<br>
-<p>E-mail : lakom.jalanan@gmail.com</p> 
+<a href="https://www.instagram.com/" class="fa fa-instagram"></a> lakom_koba <br>
+<a href="http://facebook.com" class="fa fa-facebook"></a>  LAKOM KOBA<br>
+<p>E-mail : lakom.koba@gmail.com</p> 
 </footer>
      
 </div>
