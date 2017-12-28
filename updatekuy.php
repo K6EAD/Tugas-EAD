@@ -77,7 +77,18 @@ Asal Kecamatan :<br>
  <option value="Sulawesi">Sulawesi</option>  
  <option value="Sumatera">Sumatera</option>  
  <option value="Irian Jaya">Irian Jaya</option>  
- </select>   
+ </select>
+Jenis Keluhan :<br>
+ <select name="jenis"> 
+<option value="">Silahkan Pilih</option>  
+ <option value="Jalanan">Jalanan</option>  
+ <option value="Rumah Sakit">Rumah Sakit</option>  
+ <option value="Pasar">Pasar</option>  
+ <option value="Bangunan">Bangunan</option>  
+ <option value="Rumah Ibadah">Rumah Ibadah</option>  
+ <option value="Transportasi">Transportasi</option>  
+ <option value="Energi">Energi</option>
+ </select>   <br> 
 Keluhan 					: <br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
 Saran 						: <br>
