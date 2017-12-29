@@ -97,7 +97,7 @@ Saran 						: <br>
 	<input type = "submit" value= "Submit"> <br>
 	
 	
-Select image to upload : <br>
+Unggah Gambar untuk Keluhan Anda (bila ada) : <br>
 	<input type = "file" name = "gambar"/>
 	<br>
 	
