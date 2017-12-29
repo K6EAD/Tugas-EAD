@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>LAKOM Jalanan</title>
+        <title>LAKOM KOBA</title>
         <link rel="stylesheet" type="text/css" href="style.css" />
 		
     </head>
