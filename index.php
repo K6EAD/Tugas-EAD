@@ -12,7 +12,7 @@
 		
     </head>
     
-    <body background="tree.jpg">
+    <body background="smart.jpg">
     
         <header id="head" >
         	<p>LOGIN DAN DAFTAR MEMBER</p>
