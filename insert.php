@@ -25,7 +25,7 @@ body {font-family: "Roboto", sans-serif}
     <div id="demo" class="w3-hide">
       <a class="w3-bar-item w3-button" href="tatacara.html">Download Form Komplain</a>
       <a class="w3-bar-item w3-button" href="video.html">Video Pemeliharaan Jalanan</a>
-	  <a class="w3-bar-item w3-button" href="komentar2.php" >Chat</a>
+	  <a class="w3-bar-item w3-button" href="komentar2.php" >Chatting</a>
     </div>
   </div>
   
@@ -47,7 +47,7 @@ body {font-family: "Roboto", sans-serif}
 <div class="w3-container" style="padding:32px">
 
 
-<form action ="proses_inputsql.php" method="POST">
+<form action ="proses_inputsql.php" method="POST" enctype="multipart/form-data">
 Nama Lengkap					: <br>
 	<input type = "text" name= "nama" placeholder = "Nama" ><br>
 ID KTP					: <br>
@@ -88,8 +88,8 @@ Saran 						: <br>
 	<input type = "submit" value= "Submit"> <br>
 	
 	
-Select image to upload : 
-	<input type = "file" name = "image"/>
+Select image to upload : <br>
+	<input type = "file" name = "gambar"/>
 	<br>
 	
 	<input type = "submit" value= "Submit"> <br>
