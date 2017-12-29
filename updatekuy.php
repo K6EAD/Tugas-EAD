@@ -56,28 +56,28 @@ $data = mysql_fetch_assoc($show);
 ?>
 <form action ="proses_updatedata.php" method="POST">
 <input type ="hidden" name = "id" value = "<?php echo $nim?>">
-Nama 					: <br>
+Nama Lengkap					: <br>
 	<input type = "text" name= "nama" placeholder = "Nama" ><br>
 ID KTP					: <br>
      <input type = "text" name= "nik" placeholder = "ID KTP" ><br>
 Umur			    : <br>
 	<input type = "text" name = "umur" placeholder = "Umur"><br>
 Jenis Kelamin					: <br>
-				  <input type = "radio" name = "gender" id="gender" value="Pria">Pria<br>
+				  <input type = "radio" name = "gender" id="gender" value="Pria">Pria
 				  <input type = "radio" name = "gender" id="gender" value="Wanita">Wanita<br>
 				  
 Asal Kecamatan :<br>
 <select name="kecamatan"> 
 <option value="">Silahkan Pilih</option>  
- <option value="Jakarta">Jakarta</option>  
- <option value="Bandung">Bandung</option>  
- <option value="Surabaya">Surabaya</option>  
- <option value="Bali">Bali</option>  
- <option value="Kalimantan">Kalimantan</option>  
- <option value="Sulawesi">Sulawesi</option>  
- <option value="Sumatera">Sumatera</option>  
- <option value="Irian Jaya">Irian Jaya</option>  
- </select>
+ <option value="Antapani">Antapani</option>  
+ <option value="Arcamanik">Arcamanik</option>  
+ <option value="Batu Nunggal">Batu Nunggal</option>  
+ <option value="Buah Batu">Buah Batu</option>  
+ <option value="Cibiru">Cibiru</option>  
+ <option value="Cidadap">Cidadap</option>  
+ <option value="Kiara Condong">Kiara Condong</option>  
+ <option value="Lengkong">Lengkong</option>  
+ </select>   <br>
 Jenis Keluhan :<br>
  <select name="jenis"> 
 <option value="">Silahkan Pilih</option>  
@@ -88,22 +88,20 @@ Jenis Keluhan :<br>
  <option value="Rumah Ibadah">Rumah Ibadah</option>  
  <option value="Transportasi">Transportasi</option>  
  <option value="Energi">Energi</option>
- </select>   <br> 
-Keluhan 					: <br>
+ <option value="Taman">Taman</option>
+ </select>   <br>
+ Keluhan 					: <br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
 Saran 						: <br>
 	<input type = "text" name="saran" placeholder = "Saran anda" ><br>
+	<input type = "submit" value= "Submit"> <br>
 	
-Select image to upload : 
-	<input type = "file" name = "image"/>
+	
+Select image to upload : <br>
+	<input type = "file" name = "gambar"/>
 	<br>
 	
-	<input type = "submit" value= "Update"> <br>
-	
-
-
-
-
+	<input type = "submit" value= "Submit"> <br>
 </form>
 
 
