@@ -80,6 +80,7 @@ Jenis Keluhan :<br>
  <option value="Rumah Ibadah">Rumah Ibadah</option>  
  <option value="Transportasi">Transportasi</option>  
  <option value="Energi">Energi</option>
+ <option value="Taman">Taman</option>
  </select>   <br>
  Keluhan 					: <br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
