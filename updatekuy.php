@@ -93,7 +93,13 @@ Keluhan 					: <br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
 Saran 						: <br>
 	<input type = "text" name="saran" placeholder = "Saran anda" ><br>
-	<input type = "submit" value= "Update">
+	
+Select image to upload : 
+	<input type = "file" name = "image"/>
+	<br>
+	
+	<input type = "submit" value= "Update"> <br>
+	
 
 
 
