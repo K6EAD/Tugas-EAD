@@ -163,7 +163,7 @@ body {font-family: "Roboto", sans-serif}
 	echo'<td> '.$data['jenis'].'</td>';
 	echo'<td> '.$data['keluhan'].'</td>';
 	echo'<td> '.$data['saran'].'</td>';
-	echo'<td> '.$data['pict'].'</td>';
+	echo'<td><img src="upload/'.$data['pict'].'"></td>';		
 	echo'</tr><br>';
 
 			$no++;
