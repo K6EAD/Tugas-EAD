@@ -60,13 +60,7 @@ while ($data = mysql_fetch_assoc($query)){
 	echo'<td>'.$nomor.'. </td>';
 	echo'<td> '.$data['nama'].'</td>';
 	echo'<td> '.$data['nik'].'</td>';
-	echo'<td> '.$data['umur'].'</td>';
-	echo'<td> '.$data['gender'].'</td>';
 	echo'<td> '.$data['kecamatan'].'</td>';
-	echo'<td> '.$data['jenis'].'</td>';
-	echo'<td> '.$data['keluhan'].'</td>';
-	echo'<td> '.$data['saran'].'</td>';
-	echo'<td> '.$data['pict'].'</td>';
 	echo'<td> <a href="proses_delete.php?id='.$data['id'].'"> <right><i class="material-icons">delete</i></right> </td>';
 	
 	echo'</tr><br>';
