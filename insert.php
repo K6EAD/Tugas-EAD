@@ -50,14 +50,18 @@ body {font-family: "Roboto", sans-serif}
 <form action ="proses_inputsql.php" method="POST" enctype="multipart/form-data">
 Nama Lengkap					: <br>
 	<input type = "text" name= "nama" placeholder = "Nama" ><br>
+	<br>
 ID KTP					: <br>
      <input type = "text" name= "nik" placeholder = "ID KTP" ><br>
+	 <br>
 Umur			    : <br>
 	<input type = "text" name = "umur" placeholder = "Umur"><br>
+	<br>
 Jenis Kelamin					: <br>
 				  <input type = "radio" name = "gender" id="gender" value="Pria">Pria
 				  <input type = "radio" name = "gender" id="gender" value="Wanita">Wanita<br>
 				  
+				  <br>
 Asal Kecamatan :<br>
 <select name="kecamatan"> 
 <option value="">Silahkan Pilih</option>  
@@ -70,6 +74,7 @@ Asal Kecamatan :<br>
  <option value="Kiara Condong">Kiara Condong</option>  
  <option value="Lengkong">Lengkong</option>  
  </select>   <br>
+ <br>
 Jenis Keluhan :<br>
  <select name="jenis"> 
 <option value="">Silahkan Pilih</option>  
@@ -82,17 +87,19 @@ Jenis Keluhan :<br>
  <option value="Energi">Energi</option>
  <option value="Taman">Taman</option>
  </select>   <br>
+ <br>
  Keluhan 					: <br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
+	<br>
 Saran 						: <br>
 	<input type = "text" name="saran" placeholder = "Saran anda" ><br>
 
-	
+	<br>
 	
 Unggah Gambar untuk Keluhan Anda (bila ada) : <br>
 	<input type = "file" name = "gambar"/>
 	<br>
-	
+	<br>
 	<input type = "submit" value= "Submit"> <br>
 	
 	
