@@ -86,7 +86,7 @@ Jenis Keluhan :<br>
 	<input type = "text" name="keluhan" placeholder = "Keluhan anda" ><br>
 Saran 						: <br>
 	<input type = "text" name="saran" placeholder = "Saran anda" ><br>
-	<input type = "submit" value= "Submit"> <br>
+
 	
 	
 Unggah Gambar untuk Keluhan Anda (bila ada) : <br>
