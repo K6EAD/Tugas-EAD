@@ -24,7 +24,7 @@ body {font-family: "Roboto", sans-serif}
 <a class="w3-bar-item w3-button" onclick="myAccordion('demo')" href="javascript:void(0)">Lainnya<i class="fa fa-caret-down"></i></a>
     <div id="demo" class="w3-hide">
       <a class="w3-bar-item w3-button" href="tatacara.html">Download Form Komplain</a>
-      <a class="w3-bar-item w3-button" href="video.html">Video Pemeliharaan Jalanan</a>
+      <a class="w3-bar-item w3-button" href="video.html">Video Perwujudan Smart City</a>
 	  <a class="w3-bar-item w3-button" href="komentar2.php" >Chat</a>
     </div>
   </div>
