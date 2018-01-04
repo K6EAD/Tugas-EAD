@@ -24,7 +24,7 @@ body {font-family: "Roboto", sans-serif}
 <a class="w3-bar-item w3-button" onclick="myAccordion('demo')" href="javascript:void(0)">Lainnya<i class="fa fa-caret-down"></i></a>
     <div id="demo" class="w3-hide">
       <a class="w3-bar-item w3-button" href="tatacara.html">Download Form Komplain</a>
-      <a class="w3-bar-item w3-button" href="video.html">Video Pemeliharaan Jalanan</a>
+      <a class="w3-bar-item w3-button" href="video.html">Video Perwujudan Smart City</a>
 	  <a class="w3-bar-item w3-button w3-teal" href="komentar2.php" >Chat</a>
     </div>
   </div>
@@ -93,9 +93,9 @@ echo "</table>";
 
 <footer class="w3-container w3-theme" style="padding:32px">
 <p>Contact Me !</p>
-<a href="" class="fa fa-instagram"></a> wiranatha98 <br>
-<a href="" class="fa fa-facebook"></a>  Sang Putu Santika Wiranatha<br>
-<p>E-mail : wiranatha98@gmail.com</p>
+<a href="https://www.instagram.com/" class="fa fa-instagram"></a> lakom_koba <br>
+<a href="https://web.facebook.com/?_rdc=1&_rdr" class="fa fa-facebook"></a> LAKOM KOBAa<br>
+<p>E-mail : lakom.koba@gmail.com</p>
   
 </footer>
      
