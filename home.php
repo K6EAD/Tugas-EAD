@@ -64,7 +64,7 @@ komplain tentang kondisi jalanan ataupun taman yang ada di sekitar Bandung, yang
 LAKOM KOBA kepada Instansi yang terkait untuk ditindaklanjuti.</p><br>
 </p>
 <h3><center><b>Alur Kerja LAKOM KOBA</b></center></h3>
-<img src="alur.jpg" alt="Database" align="middle"> <br>
+<img src="alurr.jpg" alt="Database" align="middle"> <br>
 	
 	
 </form>
